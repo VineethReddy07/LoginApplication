@@ -31,3 +31,16 @@ build/
 
 ### VS Code ###
 .vscode/
+#package
+*.jar
+*.ear
+*.war
+*.tar.gz
+*.rar
+*.zip
+
+#Compiled class
+*.class
+
+#No mvn
+.mvn
